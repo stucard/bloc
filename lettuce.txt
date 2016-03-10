@@ -1,0 +1,9 @@
+diff --git a/banana.txt b/banana.txt
+index c02ccbb..d5e4ba8 100644
+--- a/banana.txt
++++ b/banana.txt
+@@ -1 +1 @@
+-git init
+\ No newline at end of file
++ "Git Checkpoint Assignment."
+\ No newline at end of file
